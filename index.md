@@ -30,4 +30,4 @@ title: 项目展示
 ## 联系方式
 
 - 个人主页: [brez.top](https://brez.top)
-- GitHub: [@breeze1396](https://github.com/breeze1396)
+- GitHub: [@breztop](https://github.com/breztop)

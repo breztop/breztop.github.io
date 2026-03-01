@@ -17,4 +17,4 @@ permalink: /about/
 ## 你可以在这里找到我
 
 - 个人主页: [brez.top](https://brez.top)
-- GitHub: [@breeze1396](https://github.com/breeze1396)
+- GitHub: [@breztop](https://github.com/breztop)
