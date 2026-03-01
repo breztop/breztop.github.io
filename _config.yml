@@ -1,12 +1,12 @@
-title: Welcome to My GitHub Page
-description: A beautiful GitHub page powered by Jekyll and Cayman theme
+title: Brez Project Showcase
+description: Project showcase and technical practice from brez.top
 theme: jekyll-theme-cayman
 show_downloads: false
 
 # GitHub repository information
 github:
   is_project_page: false
-  
+
 # Optional: Customize the theme
 plugins:
   - jekyll-remote-theme
@@ -15,6 +15,7 @@ plugins:
 # SEO settings
 lang: zh-CN
 author: breztop
+url: https://breeze1396.github.io
 
 # Build settings
 markdown: kramdown
